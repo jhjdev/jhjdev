@@ -4,6 +4,9 @@
 **jhjdev/jhjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+
+I'm Jon Hnefill Jakobsoon.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<a href="https://app.daily.dev/jonhnefilljakobsson"><img src="https://api.daily.dev/devcards/61ac0e89dad940b2b55aecaf9afd6758.png?r=xtf" width="400" alt="Jon Hnefill Jakobsson's Dev Card"/></a>
