@@ -53,6 +53,7 @@ I'm **Jon Hnefill Jakobsson** — a senior mobile and frontend developer with a 
 - Email: [jhj@jhjdev.com](mailto:jhj@jhjdev.com)
 
 😄 **Pronouns:** He / Him / His  
+
 ⚡ **Fun fact:** When I was 19 or 20, I did voiceovers for the Icelandic release of Disney’s *Recess: School's Out* — I voiced the ninjas!
 
 ---
